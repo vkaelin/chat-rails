@@ -1,0 +1,19 @@
+<div class="ui container">
+
+  <div class="ui negative message" id="errors" style="display: none">
+    <div class="header">Il y a eu un problème ave votre message :(</div>
+    <ul class="text">
+
+    </ul>
+  </div>
+
+  <div id="messages" class="ui comments">
+    <%= render @messages %>
+  </div>
+
+  <div class="ui rply form">
+    <div class="field">
+      <textarea id="message" placeholder="Votre message"></textarea>
+    </div>
+  </div>
+</div>
