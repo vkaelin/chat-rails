@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b8205c8-dc4b-4aea-ab97-2384490b6066" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/pokes.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/messages/_message.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/messages/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/generators.rb" afterDir="false" />
-    </list>
+    <list default="true" id="7b8205c8-dc4b-4aea-ab97-2384490b6066" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/app/channels/poke_channel.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -389,12 +384,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528294353566</updated>
       <workItem from="1528294356285" duration="497000" />
-      <workItem from="1528295118168" duration="7505000" />
+      <workItem from="1528295118168" duration="7933000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8002000" />
+    <option name="totallyTimeSpent" value="8430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1283" y="23" width="1920" height="1012" extended-state="0" />
@@ -608,7 +603,7 @@
     <entry file="file://$PROJECT_DIR$/app/channels/poke_channel.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
